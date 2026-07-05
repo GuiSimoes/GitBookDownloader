@@ -1,21 +1,46 @@
+import json
 import fitz
 
-from config import PDF_UNICO, PDF_FINAL
+from config import ROOT, PDF_UNICO, PDF_FINAL
 
+# Abre o PDF original
 pdf = fitz.open(PDF_UNICO)
 
-toc = [
-    [1, "Atendi Docs", 1],
-    [2, "Summary", 3],
-    [2, "01. Empresa", 5],
-    [3, "Cultura da Atendi", 6],
-    [3, "FAQ Institucional da Atendi", 10],
-]
+# Carrega o índice
+with open(ROOT / "python" / "indice.json", "r", encoding="utf-8") as f:
+    indice = json.load(f)
 
+toc = []
+
+nivel_anterior = 1
+
+for item in indice:
+
+    nivel = item["nivel"]
+
+    # O PyMuPDF não permite pular níveis
+    if nivel > nivel_anterior + 1:
+        nivel = nivel_anterior + 1
+
+    toc.append([
+        nivel,
+        item["titulo"],
+        item["pagina"]
+    ])
+
+    nivel_anterior = nivel
+
+print(f"Bookmarks encontrados: {len(toc)}")
+
+# Aplica os bookmarks
 pdf.set_toc(toc)
+
+# Salva o novo PDF
+print(f"Entrada : {PDF_UNICO}")
+print(f"Saída   : {PDF_FINAL}")
 
 pdf.save(PDF_FINAL)
 
 pdf.close()
 
-print("PDF criado com bookmarks!")
+print(f"PDF criado com {len(toc)} bookmarks!")
