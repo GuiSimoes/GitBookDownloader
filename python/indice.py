@@ -35,10 +35,11 @@ for pagina in mapa:
         continue
 
     indice.append({
-        "titulo": titulo,
-        "pagina": pagina["pagina"],
-        "nivel": menu_por_titulo[titulo]["nivel"]
-    })
+    "titulo": titulo,
+    "pagina": pagina["pagina"],
+    "nivel": menu_por_titulo[titulo]["nivel"],
+    "url": menu_por_titulo[titulo]["url"]
+})
 
 # Salva indice.json
 with open(saida_path, "w", encoding="utf-8") as f:
