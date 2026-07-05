@@ -1,0 +1,767 @@
+[
+  {
+    "titulo": "Atendi Docs",
+    "url": "/atendi-docs",
+    "nivel": 1
+  },
+  {
+    "titulo": "Summary",
+    "url": "/atendi-docs/summary",
+    "nivel": 1
+  },
+  {
+    "titulo": "01. Empresa",
+    "url": "/atendi-docs/01.-empresa",
+    "nivel": 1
+  },
+  {
+    "titulo": "Cultura da Atendi",
+    "url": "/atendi-docs/01.-empresa/cultura",
+    "nivel": 2
+  },
+  {
+    "titulo": "FAQ Institucional da Atendi",
+    "url": "/atendi-docs/01.-empresa/faq-institucional",
+    "nivel": 2
+  },
+  {
+    "titulo": "História da Atendi",
+    "url": "/atendi-docs/01.-empresa/historia",
+    "nivel": 2
+  },
+  {
+    "titulo": "Manifesto da Atendi",
+    "url": "/atendi-docs/01.-empresa/manifesto",
+    "nivel": 2
+  },
+  {
+    "titulo": "Posicionamento da Atendi",
+    "url": "/atendi-docs/01.-empresa/posicionamento",
+    "nivel": 2
+  },
+  {
+    "titulo": "Público-alvo da Atendi",
+    "url": "/atendi-docs/01.-empresa/publico-alvo",
+    "nivel": 2
+  },
+  {
+    "titulo": "02. Operação Atendi",
+    "url": "/atendi-docs/02.-operacao-atendi",
+    "nivel": 1
+  },
+  {
+    "titulo": "Cliente Ideal",
+    "url": "/atendi-docs/02.-operacao-atendi/cliente-ideal",
+    "nivel": 2
+  },
+  {
+    "titulo": "comercial",
+    "url": "/atendi-docs/02.-operacao-atendi/comercial",
+    "nivel": 2
+  },
+  {
+    "titulo": "contratacao",
+    "url": "/atendi-docs/02.-operacao-atendi/contratacao",
+    "nivel": 2
+  },
+  {
+    "titulo": "demonstracao",
+    "url": "/atendi-docs/02.-operacao-atendi/demonstracao",
+    "nivel": 2
+  },
+  {
+    "titulo": "evolucao-do-cliente",
+    "url": "/atendi-docs/02.-operacao-atendi/evolucao-do-cliente",
+    "nivel": 2
+  },
+  {
+    "titulo": "implantacao",
+    "url": "/atendi-docs/02.-operacao-atendi/implantacao",
+    "nivel": 2
+  },
+  {
+    "titulo": "metodo-atendi",
+    "url": "/atendi-docs/02.-operacao-atendi/metodo-atendi",
+    "nivel": 2
+  },
+  {
+    "titulo": "primeiro-valor",
+    "url": "/atendi-docs/02.-operacao-atendi/primeiro-valor",
+    "nivel": 2
+  },
+  {
+    "titulo": "08-suporte",
+    "url": "/atendi-docs/02.-operacao-atendi/suporte",
+    "nivel": 2
+  },
+  {
+    "titulo": "IA na Operação Atendi",
+    "url": "/atendi-docs/02.-operacao-atendi/ia",
+    "nivel": 2
+  },
+  {
+    "titulo": "Agente Comercial",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/agente-comercial",
+    "nivel": 3
+  },
+  {
+    "titulo": "Agente Suporte",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/agente-suporte",
+    "nivel": 3
+  },
+  {
+    "titulo": "Arquitetura Dos Agentes",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/arquitetura-dos-agentes",
+    "nivel": 3
+  },
+  {
+    "titulo": "Prompts",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/prompts",
+    "nivel": 3
+  },
+  {
+    "titulo": "Vector Stores",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores",
+    "nivel": 3
+  },
+  {
+    "titulo": "Referências",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/referencias",
+    "nivel": 3
+  },
+  {
+    "titulo": "Agentes de IA",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/referencias/agentes-de-ia",
+    "nivel": 4
+  },
+  {
+    "titulo": "Documentos do Vector Store Comercial",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/referencias/documentos-vector-store-comercial",
+    "nivel": 4
+  },
+  {
+    "titulo": "Documentos Vector Store Suporte",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/referencias/documentos-vector-store-suporte",
+    "nivel": 4
+  },
+  {
+    "titulo": "Prompt Agente Comercial",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/referencias/prompt-agente-comercial",
+    "nivel": 4
+  },
+  {
+    "titulo": "Prompt Agente Suporte",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/referencias/prompt-agente-suporte",
+    "nivel": 4
+  },
+  {
+    "titulo": "Vector Store",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/referencias/vector-store",
+    "nivel": 4
+  },
+  {
+    "titulo": "Vector Stores",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1",
+    "nivel": 3
+  },
+  {
+    "titulo": "Comercial",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/comercial",
+    "nivel": 4
+  },
+  {
+    "titulo": "Atendi OS",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/comercial/atendi-os",
+    "nivel": 5
+  },
+  {
+    "titulo": "FAQ Comercial",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/comercial/faq-comercial",
+    "nivel": 5
+  },
+  {
+    "titulo": "Institucional Atendi",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/comercial/institucional-atendi",
+    "nivel": 5
+  },
+  {
+    "titulo": "Objecoes Comerciais",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/comercial/objecoes-comerciais",
+    "nivel": 5
+  },
+  {
+    "titulo": "Perfil de Cliente Ideal",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/comercial/perfil-cliente-ideal",
+    "nivel": 5
+  },
+  {
+    "titulo": "Periodo de Teste",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/comercial/periodo-de-teste",
+    "nivel": 5
+  },
+  {
+    "titulo": "Planos e Precos",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/comercial/planos-e-precos",
+    "nivel": 5
+  },
+  {
+    "titulo": "Playbook Comercial",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/comercial/playbook-comercial",
+    "nivel": 5
+  },
+  {
+    "titulo": "Processo Comercial",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/comercial/processo-comercial",
+    "nivel": 5
+  },
+  {
+    "titulo": "Requisitos para Usar o Atendi OS",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/comercial/requisitos-para-usar-atendi-os",
+    "nivel": 5
+  },
+  {
+    "titulo": "Gestão Da Base",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/gestao-da-base",
+    "nivel": 4
+  },
+  {
+    "titulo": "Checklist Antes de Publicar",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/gestao-da-base/checklist-antes-publicar",
+    "nivel": 5
+  },
+  {
+    "titulo": "Documentos para Vector Store",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/gestao-da-base/documentos-para-vector-store",
+    "nivel": 5
+  },
+  {
+    "titulo": "Documentos Publicados no Vector Store Comercial",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/gestao-da-base/documentos-publicados-vector-store-comercial",
+    "nivel": 5
+  },
+  {
+    "titulo": "Documentos Publicados no Vector Store Suporte",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/gestao-da-base/documentos-publicados-vector-store-suporte",
+    "nivel": 5
+  },
+  {
+    "titulo": "Padrão dos Documentos",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/gestao-da-base/padrao-documentos",
+    "nivel": 5
+  },
+  {
+    "titulo": "Vector Store do Agente de Suporte e Implementacao",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte",
+    "nivel": 4
+  },
+  {
+    "titulo": "Atendimento",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/atendimento",
+    "nivel": 5
+  },
+  {
+    "titulo": "Acesso Remoto",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/atendimento/acesso-remoto",
+    "nivel": 6
+  },
+  {
+    "titulo": "Boas Praticas de Suporte",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/atendimento/boas-praticas-de-suporte",
+    "nivel": 6
+  },
+  {
+    "titulo": "Coleta de Informacoes",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/atendimento/coleta-de-informacoes",
+    "nivel": 6
+  },
+  {
+    "titulo": "Respostas Predefinidas",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/atendimento/respostas-predefinidas",
+    "nivel": 6
+  },
+  {
+    "titulo": "Configuração",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/configuracao",
+    "nivel": 5
+  },
+  {
+    "titulo": "Clientes",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/configuracao/clientes",
+    "nivel": 6
+  },
+  {
+    "titulo": "Dados da Empresa",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/configuracao/dados-da-empresa",
+    "nivel": 6
+  },
+  {
+    "titulo": "Dispositivos Conectados",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/configuracao/dispositivos-conectados",
+    "nivel": 6
+  },
+  {
+    "titulo": "Formas de Pagamento",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/configuracao/formas-de-pagamento",
+    "nivel": 6
+  },
+  {
+    "titulo": "Impressoras",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/configuracao/impressoras",
+    "nivel": 6
+  },
+  {
+    "titulo": "Produtos e Categorias",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/configuracao/produtos-e-categorias",
+    "nivel": 6
+  },
+  {
+    "titulo": "Usuarios e Permissoes",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/configuracao/usuarios-e-permissoes",
+    "nivel": 6
+  },
+  {
+    "titulo": "Areas de Producao",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/configuracao/areas-de-producao",
+    "nivel": 6
+  },
+  {
+    "titulo": "Diagnóstico",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/diagnostico",
+    "nivel": 5
+  },
+  {
+    "titulo": "Mensagens de Erro",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/diagnostico/mensagens-de-erro",
+    "nivel": 6
+  },
+  {
+    "titulo": "Problemas Conhecidos",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/diagnostico/problemas-conhecidos",
+    "nivel": 6
+  },
+  {
+    "titulo": "Problemas de Autenticacao",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/diagnostico/problemas-de-autenticacao",
+    "nivel": 6
+  },
+  {
+    "titulo": "Problemas de Conexao",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/diagnostico/problemas-de-conexao",
+    "nivel": 6
+  },
+  {
+    "titulo": "Problemas de Dispositivos",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/diagnostico/problemas-de-dispositivos",
+    "nivel": 6
+  },
+  {
+    "titulo": "Problemas de Impressao",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/diagnostico/problemas-de-impressao",
+    "nivel": 6
+  },
+  {
+    "titulo": "FAQ",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/faq",
+    "nivel": 5
+  },
+  {
+    "titulo": "FAQ Configuracao",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/faq/faq-configuracao",
+    "nivel": 6
+  },
+  {
+    "titulo": "FAQ Financeiro",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/faq/faq-financeiro",
+    "nivel": 6
+  },
+  {
+    "titulo": "FAQ Fiscal",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/faq/faq-fiscal",
+    "nivel": 6
+  },
+  {
+    "titulo": "FAQ Geral",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/faq/faq-geral",
+    "nivel": 6
+  },
+  {
+    "titulo": "FAQ Onboarding",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/faq/faq-onboarding",
+    "nivel": 6
+  },
+  {
+    "titulo": "FAQ Operacao",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/faq/faq-operacao",
+    "nivel": 6
+  },
+  {
+    "titulo": "Gestão",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/gestao",
+    "nivel": 5
+  },
+  {
+    "titulo": "Estoque",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/gestao/estoque",
+    "nivel": 6
+  },
+  {
+    "titulo": "Financeiro",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/gestao/financeiro",
+    "nivel": 6
+  },
+  {
+    "titulo": "Fiscal",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/gestao/fiscal",
+    "nivel": 6
+  },
+  {
+    "titulo": "Gestao de Clientes",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/gestao/gestao-de-clientes",
+    "nivel": 6
+  },
+  {
+    "titulo": "Relatorios",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/gestao/relatorios",
+    "nivel": 6
+  },
+  {
+    "titulo": "Infraestrutura",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/infraestrutura",
+    "nivel": 5
+  },
+  {
+    "titulo": "Dispositivos Compativeis",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/infraestrutura/dispositivos-compativeis",
+    "nivel": 6
+  },
+  {
+    "titulo": "Estrutura de Rede",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/infraestrutura/estrutura-de-rede",
+    "nivel": 6
+  },
+  {
+    "titulo": "Integracoes",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/infraestrutura/integracoes",
+    "nivel": 6
+  },
+  {
+    "titulo": "Regras de Autenticacao",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/infraestrutura/regras-de-autenticacao",
+    "nivel": 6
+  },
+  {
+    "titulo": "Requisitos Minimos",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/infraestrutura/requisitos-minimos",
+    "nivel": 6
+  },
+  {
+    "titulo": "Institucional",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/institucional",
+    "nivel": 5
+  },
+  {
+    "titulo": "Como Funciona o Suporte",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/institucional/como-funciona-o-suporte",
+    "nivel": 6
+  },
+  {
+    "titulo": "O que e Atendi OS",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/institucional/o-que-e-atendi-os",
+    "nivel": 6
+  },
+  {
+    "titulo": "Quem Faz o Atendimento",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/institucional/quem-faz-o-atendimento",
+    "nivel": 6
+  },
+  {
+    "titulo": "Onboarding",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/onboarding",
+    "nivel": 5
+  },
+  {
+    "titulo": "Checklist de Implantacao",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/onboarding/checklist-de-implantacao",
+    "nivel": 6
+  },
+  {
+    "titulo": "Coleta de Dados da Empresa",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/onboarding/coleta-de-dados-da-empresa",
+    "nivel": 6
+  },
+  {
+    "titulo": "Configuracao Inicial",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/onboarding/configuracao-inicial",
+    "nivel": 6
+  },
+  {
+    "titulo": "Implementacao",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/onboarding/implementacao",
+    "nivel": 6
+  },
+  {
+    "titulo": "Onboarding",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/onboarding/onboarding",
+    "nivel": 6
+  },
+  {
+    "titulo": "Primeiro Pedido",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/onboarding/primeiro-pedido",
+    "nivel": 6
+  },
+  {
+    "titulo": "Primeiros Passos",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/onboarding/primeiros-passos",
+    "nivel": 6
+  },
+  {
+    "titulo": "Validacao da Implantacao",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/onboarding/validacao-da-implantacao",
+    "nivel": 6
+  },
+  {
+    "titulo": "Operação",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/operacao",
+    "nivel": 5
+  },
+  {
+    "titulo": "Autoatendimento",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/operacao/autoatendimento",
+    "nivel": 6
+  },
+  {
+    "titulo": "Cancelamentos",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/operacao/cancelamentos",
+    "nivel": 6
+  },
+  {
+    "titulo": "Display Digital",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/operacao/display-digital",
+    "nivel": 6
+  },
+  {
+    "titulo": "Fluxo de Pedidos",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/operacao/fluxo-de-pedidos",
+    "nivel": 6
+  },
+  {
+    "titulo": "Fluxo de Vendas",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/operacao/fluxo-de-vendas",
+    "nivel": 6
+  },
+  {
+    "titulo": "Fluxo do Caixa",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/operacao/fluxo-do-caixa",
+    "nivel": 6
+  },
+  {
+    "titulo": "Loja Online",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/operacao/loja-online",
+    "nivel": 6
+  },
+  {
+    "titulo": "PDV",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/operacao/pdv",
+    "nivel": 6
+  },
+  {
+    "titulo": "Producao",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/operacao/producao",
+    "nivel": 6
+  },
+  {
+    "titulo": "Totem",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/operacao/totem",
+    "nivel": 6
+  },
+  {
+    "titulo": "Transferencias",
+    "url": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/operacao/transferencias",
+    "nivel": 6
+  },
+  {
+    "titulo": "Playbooks",
+    "url": "/atendi-docs/02.-operacao-atendi/playbooks",
+    "nivel": 2
+  },
+  {
+    "titulo": "playbook-comercial",
+    "url": "/atendi-docs/02.-operacao-atendi/playbooks/playbook-comercial",
+    "nivel": 3
+  },
+  {
+    "titulo": "playbook-contratacao",
+    "url": "/atendi-docs/02.-operacao-atendi/playbooks/playbook-contratacao",
+    "nivel": 3
+  },
+  {
+    "titulo": "playbook-demonstracao",
+    "url": "/atendi-docs/02.-operacao-atendi/playbooks/playbook-demonstracao",
+    "nivel": 3
+  },
+  {
+    "titulo": "playbook-evolucao-do-cliente",
+    "url": "/atendi-docs/02.-operacao-atendi/playbooks/playbook-evolucao-do-cliente",
+    "nivel": 3
+  },
+  {
+    "titulo": "Playbook Implantação",
+    "url": "/atendi-docs/02.-operacao-atendi/playbooks/playbook-implantacao",
+    "nivel": 3
+  },
+  {
+    "titulo": "Playbook Primeiro Valor",
+    "url": "/atendi-docs/02.-operacao-atendi/playbooks/playbook-primeiro-valor",
+    "nivel": 3
+  },
+  {
+    "titulo": "Playbook Suporte",
+    "url": "/atendi-docs/02.-operacao-atendi/playbooks/playbook-suporte",
+    "nivel": 3
+  },
+  {
+    "titulo": "03. Produto",
+    "url": "/atendi-docs/03.-produto",
+    "nivel": 1
+  },
+  {
+    "titulo": "Arquitetura Operacional da Loja",
+    "url": "/atendi-docs/03.-produto/arquitetura-operacional-da-loja",
+    "nivel": 2
+  },
+  {
+    "titulo": "Arquitetura Técnica",
+    "url": "/atendi-docs/03.-produto/arquitetura-tecnica",
+    "nivel": 2
+  },
+  {
+    "titulo": "FAQ de Produto",
+    "url": "/atendi-docs/03.-produto/faq-produto",
+    "nivel": 2
+  },
+  {
+    "titulo": "Integrações",
+    "url": "/atendi-docs/03.-produto/integracoes",
+    "nivel": 2
+  },
+  {
+    "titulo": "Processo Interno de Produto",
+    "url": "/atendi-docs/03.-produto/processo-de-produto",
+    "nivel": 2
+  },
+  {
+    "titulo": "Roadmap",
+    "url": "/atendi-docs/03.-produto/roadmap",
+    "nivel": 2
+  },
+  {
+    "titulo": "visao-do-atendi-os",
+    "url": "/atendi-docs/03.-produto/visao-do-atendi-os",
+    "nivel": 2
+  },
+  {
+    "titulo": "Módulos",
+    "url": "/atendi-docs/03.-produto/modulos",
+    "nivel": 2
+  },
+  {
+    "titulo": "Módulo Autoatendimento",
+    "url": "/atendi-docs/03.-produto/modulos/autoatendimento",
+    "nivel": 3
+  },
+  {
+    "titulo": "Módulo Clientes",
+    "url": "/atendi-docs/03.-produto/modulos/clientes",
+    "nivel": 3
+  },
+  {
+    "titulo": "Módulo Dashboard",
+    "url": "/atendi-docs/03.-produto/modulos/dashboard",
+    "nivel": 3
+  },
+  {
+    "titulo": "Módulo Displays Digitais",
+    "url": "/atendi-docs/03.-produto/modulos/displays-digitais",
+    "nivel": 3
+  },
+  {
+    "titulo": "Módulo Estoque",
+    "url": "/atendi-docs/03.-produto/modulos/estoque",
+    "nivel": 3
+  },
+  {
+    "titulo": "Módulo Financeiro",
+    "url": "/atendi-docs/03.-produto/modulos/financeiro",
+    "nivel": 3
+  },
+  {
+    "titulo": "Módulo Fiscal",
+    "url": "/atendi-docs/03.-produto/modulos/fiscal",
+    "nivel": 3
+  },
+  {
+    "titulo": "Módulo Inteligência Artificial",
+    "url": "/atendi-docs/03.-produto/modulos/inteligencia-artificial",
+    "nivel": 3
+  },
+  {
+    "titulo": "Módulo Loja Online",
+    "url": "/atendi-docs/03.-produto/modulos/loja-online",
+    "nivel": 3
+  },
+  {
+    "titulo": "Módulo PDV",
+    "url": "/atendi-docs/03.-produto/modulos/pdv",
+    "nivel": 3
+  },
+  {
+    "titulo": "Módulo Pedidos",
+    "url": "/atendi-docs/03.-produto/modulos/pedidos",
+    "nivel": 3
+  },
+  {
+    "titulo": "Módulo Relatórios",
+    "url": "/atendi-docs/03.-produto/modulos/relatorios",
+    "nivel": 3
+  },
+  {
+    "titulo": "Módulo Self Checkout",
+    "url": "/atendi-docs/03.-produto/modulos/self-checkout",
+    "nivel": 3
+  },
+  {
+    "titulo": "Módulo Totem",
+    "url": "/atendi-docs/03.-produto/modulos/totem",
+    "nivel": 3
+  },
+  {
+    "titulo": "Módulo WhatsApp",
+    "url": "/atendi-docs/03.-produto/modulos/whatsapp",
+    "nivel": 3
+  },
+  {
+    "titulo": "Referências",
+    "url": "/atendi-docs/03.-produto/referencias",
+    "nivel": 2
+  },
+  {
+    "titulo": "Loja da Nova Geração",
+    "url": "/atendi-docs/03.-produto/referencias/loja-da-nova-geracao",
+    "nivel": 3
+  },
+  {
+    "titulo": "Planos",
+    "url": "/atendi-docs/03.-produto/referencias/planos",
+    "nivel": 3
+  },
+  {
+    "titulo": "Plataforma Operacional",
+    "url": "/atendi-docs/03.-produto/referencias/plataforma-operacional",
+    "nivel": 3
+  },
+  {
+    "titulo": "Visão Geral do Produto",
+    "url": "/atendi-docs/03.-produto/referencias/visao-geral-do-produto",
+    "nivel": 3
+  }
+]

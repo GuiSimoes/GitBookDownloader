@@ -1,0 +1,2994 @@
+{
+  "version": 1,
+  "pages": [
+    {
+      "id": "EVwVnZICmEvBgVqafrF1",
+      "title": "Atendi Docs",
+      "pathname": "/atendi-docs",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": ""
+    },
+    {
+      "id": "nAXF4Z8h9JneNMYhxnjJ",
+      "title": "Summary",
+      "pathname": "/atendi-docs/summary",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": ""
+    },
+    {
+      "id": "Wyj6LhU0M4YI2xvVJldS",
+      "title": "01. Empresa",
+      "pathname": "/atendi-docs/01.-empresa",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": ""
+    },
+    {
+      "id": "7TNCWcGNUTRu55LEDF5z",
+      "title": "Cultura da Atendi",
+      "pathname": "/atendi-docs/01.-empresa/cultura",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "01. Empresa"
+        }
+      ]
+    },
+    {
+      "id": "SoH27kl874TTcti7ufgZ",
+      "title": "FAQ Institucional da Atendi",
+      "pathname": "/atendi-docs/01.-empresa/faq-institucional",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "01. Empresa"
+        }
+      ]
+    },
+    {
+      "id": "OwYZKERA7L8eskfozTGu",
+      "title": "História da Atendi",
+      "pathname": "/atendi-docs/01.-empresa/historia",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "01. Empresa"
+        }
+      ]
+    },
+    {
+      "id": "czXxv2f2L3n6LBI6fWPM",
+      "title": "Manifesto da Atendi",
+      "pathname": "/atendi-docs/01.-empresa/manifesto",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "01. Empresa"
+        }
+      ]
+    },
+    {
+      "id": "flIePecLJM1SjXwgqvYL",
+      "title": "Posicionamento da Atendi",
+      "pathname": "/atendi-docs/01.-empresa/posicionamento",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "01. Empresa"
+        }
+      ]
+    },
+    {
+      "id": "k1UaBZQyMBJ1UXDYnkvn",
+      "title": "Público-alvo da Atendi",
+      "pathname": "/atendi-docs/01.-empresa/publico-alvo",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "01. Empresa"
+        }
+      ]
+    },
+    {
+      "id": "FWI2lto0Uoi3SyQxKIRw",
+      "title": "02. Operação Atendi",
+      "pathname": "/atendi-docs/02.-operacao-atendi",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": ""
+    },
+    {
+      "id": "UDGDEtaRQkqZDCWiilSo",
+      "title": "Cliente Ideal",
+      "pathname": "/atendi-docs/02.-operacao-atendi/cliente-ideal",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        }
+      ]
+    },
+    {
+      "id": "49ehjA3VcYyVdwCj9fuj",
+      "title": "comercial",
+      "pathname": "/atendi-docs/02.-operacao-atendi/comercial",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        }
+      ]
+    },
+    {
+      "id": "tZ2b0S2rIqMzH9sMGzXF",
+      "title": "contratacao",
+      "pathname": "/atendi-docs/02.-operacao-atendi/contratacao",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        }
+      ]
+    },
+    {
+      "id": "K3Y7aLze03TbgklgwXDd",
+      "title": "demonstracao",
+      "pathname": "/atendi-docs/02.-operacao-atendi/demonstracao",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        }
+      ]
+    },
+    {
+      "id": "Sk9evAKwCi4Duw8D6C6v",
+      "title": "evolucao-do-cliente",
+      "pathname": "/atendi-docs/02.-operacao-atendi/evolucao-do-cliente",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        }
+      ]
+    },
+    {
+      "id": "pZzbgUvjsv3VHeO1rpGb",
+      "title": "implantacao",
+      "pathname": "/atendi-docs/02.-operacao-atendi/implantacao",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        }
+      ]
+    },
+    {
+      "id": "0o1hfZjUs1zElg9xf0ng",
+      "title": "metodo-atendi",
+      "pathname": "/atendi-docs/02.-operacao-atendi/metodo-atendi",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        }
+      ]
+    },
+    {
+      "id": "5rPcoS0um47PQTleNs5D",
+      "title": "primeiro-valor",
+      "pathname": "/atendi-docs/02.-operacao-atendi/primeiro-valor",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        }
+      ]
+    },
+    {
+      "id": "eIYUNw9fwvVijkyyIawz",
+      "title": "08-suporte",
+      "pathname": "/atendi-docs/02.-operacao-atendi/suporte",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        }
+      ]
+    },
+    {
+      "id": "yMUjkw1MzXgkeYkLBMTi",
+      "title": "IA na Operação Atendi",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        }
+      ]
+    },
+    {
+      "id": "bYmYnOFaFymzS0VXvnI8",
+      "title": "Agente Comercial",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/agente-comercial",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        }
+      ]
+    },
+    {
+      "id": "8oc1bNOuHF2yB60SujFe",
+      "title": "Agente Suporte",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/agente-suporte",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        }
+      ]
+    },
+    {
+      "id": "flSIFbJqzOG2FP5mJps5",
+      "title": "Arquitetura Dos Agentes",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/arquitetura-dos-agentes",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        }
+      ]
+    },
+    {
+      "id": "xTC0H9xhKB65aA2VMgfX",
+      "title": "Prompts",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/prompts",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        }
+      ]
+    },
+    {
+      "id": "OsI5p3KCykM9VCah4M99",
+      "title": "Vector Stores",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        }
+      ]
+    },
+    {
+      "id": "BbjOxOqdzaqwbc1XfPc5",
+      "title": "Referências",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/referencias",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        }
+      ]
+    },
+    {
+      "id": "vDG6T8Ipm0G8gQQwC2FW",
+      "title": "Agentes de IA",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/referencias/agentes-de-ia",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Referências"
+        }
+      ]
+    },
+    {
+      "id": "Bswi9QQjBxtx0ssbO947",
+      "title": "Documentos do Vector Store Comercial",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/referencias/documentos-vector-store-comercial",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Referências"
+        }
+      ]
+    },
+    {
+      "id": "iKmWS5MQBZC6VXHBqmKg",
+      "title": "Documentos Vector Store Suporte",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/referencias/documentos-vector-store-suporte",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Referências"
+        }
+      ]
+    },
+    {
+      "id": "JdHfsfvIvDw4eIrj9ZrO",
+      "title": "Prompt Agente Comercial",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/referencias/prompt-agente-comercial",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Referências"
+        }
+      ]
+    },
+    {
+      "id": "n7ordYvll2T5UHJxS09x",
+      "title": "Prompt Agente Suporte",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/referencias/prompt-agente-suporte",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Referências"
+        }
+      ]
+    },
+    {
+      "id": "cHGcmGrdhFdEq1XMHjNs",
+      "title": "Vector Store",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/referencias/vector-store",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Referências"
+        }
+      ]
+    },
+    {
+      "id": "YQ9kGndkIzvM9Tx1j3Km",
+      "title": "Vector Stores",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        }
+      ]
+    },
+    {
+      "id": "voiURrEn5jj5oWwYAOVr",
+      "title": "Comercial",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/comercial",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        }
+      ]
+    },
+    {
+      "id": "9VGh8jnNovhJzVbLYXGr",
+      "title": "Atendi OS",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/comercial/atendi-os",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "rEXJuczEXJQXk9R4gq1v",
+      "title": "FAQ Comercial",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/comercial/faq-comercial",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "KAWDTpMn862PEx9Js6UK",
+      "title": "Institucional Atendi",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/comercial/institucional-atendi",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "fLy2bLGSuaaqVSkrpGrJ",
+      "title": "Objecoes Comerciais",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/comercial/objecoes-comerciais",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "MwTRJiJghlwKpWcC4VjC",
+      "title": "Perfil de Cliente Ideal",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/comercial/perfil-cliente-ideal",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "K1EmYGg5LMNp1FxuEQiT",
+      "title": "Periodo de Teste",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/comercial/periodo-de-teste",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "gBNfKN288pQQibwlRPTf",
+      "title": "Planos e Precos",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/comercial/planos-e-precos",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "1n7m3lhHw4NIWRFmuEWG",
+      "title": "Playbook Comercial",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/comercial/playbook-comercial",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "6nDmjhptv5XOHq0ow5b8",
+      "title": "Processo Comercial",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/comercial/processo-comercial",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "Kovu68IRhtVCosNbzKfm",
+      "title": "Requisitos para Usar o Atendi OS",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/comercial/requisitos-para-usar-atendi-os",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Comercial"
+        }
+      ]
+    },
+    {
+      "id": "EpucsncBkMwKqBfmhQFw",
+      "title": "Gestão Da Base",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/gestao-da-base",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        }
+      ]
+    },
+    {
+      "id": "jdh46DKJUKbRRSAdOuGi",
+      "title": "Checklist Antes de Publicar",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/gestao-da-base/checklist-antes-publicar",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Gestão Da Base"
+        }
+      ]
+    },
+    {
+      "id": "nSCym1OQ4GjmQ6HliE3V",
+      "title": "Documentos para Vector Store",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/gestao-da-base/documentos-para-vector-store",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Gestão Da Base"
+        }
+      ]
+    },
+    {
+      "id": "1KMsbeJeFV3ndRStED36",
+      "title": "Documentos Publicados no Vector Store Comercial",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/gestao-da-base/documentos-publicados-vector-store-comercial",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Gestão Da Base"
+        }
+      ]
+    },
+    {
+      "id": "u1GwO1Xl8zLsWo9y18UG",
+      "title": "Documentos Publicados no Vector Store Suporte",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/gestao-da-base/documentos-publicados-vector-store-suporte",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Gestão Da Base"
+        }
+      ]
+    },
+    {
+      "id": "91PIjUqqReoS2nT2Xkx8",
+      "title": "Padrão dos Documentos",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/gestao-da-base/padrao-documentos",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Gestão Da Base"
+        }
+      ]
+    },
+    {
+      "id": "otPuU9QxV4fZpS8qBmUW",
+      "title": "Vector Store do Agente de Suporte e Implementacao",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        }
+      ]
+    },
+    {
+      "id": "sum0NumXgIYrdp8ZAB20",
+      "title": "Atendimento",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/atendimento",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        }
+      ]
+    },
+    {
+      "id": "EPh5XChT7kDyCLYV1CGw",
+      "title": "Acesso Remoto",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/atendimento/acesso-remoto",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Atendimento"
+        }
+      ]
+    },
+    {
+      "id": "DCFNlPiXL9oJFOjynt1k",
+      "title": "Boas Praticas de Suporte",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/atendimento/boas-praticas-de-suporte",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Atendimento"
+        }
+      ]
+    },
+    {
+      "id": "vs411Nq5qmVZ3wG1UDsx",
+      "title": "Coleta de Informacoes",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/atendimento/coleta-de-informacoes",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Atendimento"
+        }
+      ]
+    },
+    {
+      "id": "KoZ2XVRgDmGHGPVV5YK9",
+      "title": "Respostas Predefinidas",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/atendimento/respostas-predefinidas",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Atendimento"
+        }
+      ]
+    },
+    {
+      "id": "vJHa71cPA1x7NtM3KdU7",
+      "title": "Configuração",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/configuracao",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        }
+      ]
+    },
+    {
+      "id": "eFXyQVVlIRkuGNZAXAIU",
+      "title": "Clientes",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/configuracao/clientes",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Configuração"
+        }
+      ]
+    },
+    {
+      "id": "VnJuVM1D3AmSrENZ4qqK",
+      "title": "Dados da Empresa",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/configuracao/dados-da-empresa",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Configuração"
+        }
+      ]
+    },
+    {
+      "id": "5yomWpX4SIY68i1IjiDK",
+      "title": "Dispositivos Conectados",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/configuracao/dispositivos-conectados",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Configuração"
+        }
+      ]
+    },
+    {
+      "id": "GMDC5VYJD7xLG6kfmORg",
+      "title": "Formas de Pagamento",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/configuracao/formas-de-pagamento",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Configuração"
+        }
+      ]
+    },
+    {
+      "id": "ZaHaLeQdaIffaPuCf3X0",
+      "title": "Impressoras",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/configuracao/impressoras",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Configuração"
+        }
+      ]
+    },
+    {
+      "id": "PejI9B6BijrtvAHcw1zw",
+      "title": "Produtos e Categorias",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/configuracao/produtos-e-categorias",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Configuração"
+        }
+      ]
+    },
+    {
+      "id": "0tOjbUq9rr8HywP3SMuK",
+      "title": "Usuarios e Permissoes",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/configuracao/usuarios-e-permissoes",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Configuração"
+        }
+      ]
+    },
+    {
+      "id": "xnDYuAElqdQUa0ZKXaxG",
+      "title": "Areas de Producao",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/configuracao/areas-de-producao",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Configuração"
+        }
+      ]
+    },
+    {
+      "id": "JycHavYbJjy6hyy0JZS2",
+      "title": "Diagnóstico",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/diagnostico",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        }
+      ]
+    },
+    {
+      "id": "SXXgMJsVVMe6mX3Nor43",
+      "title": "Mensagens de Erro",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/diagnostico/mensagens-de-erro",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Diagnóstico"
+        }
+      ]
+    },
+    {
+      "id": "9V3RubnLLG0zu6bhQRku",
+      "title": "Problemas Conhecidos",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/diagnostico/problemas-conhecidos",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Diagnóstico"
+        }
+      ]
+    },
+    {
+      "id": "XJT8QyvyEpzbHb9VDeuQ",
+      "title": "Problemas de Autenticacao",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/diagnostico/problemas-de-autenticacao",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Diagnóstico"
+        }
+      ]
+    },
+    {
+      "id": "EkoLaMSsr0ClugYE0dQH",
+      "title": "Problemas de Conexao",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/diagnostico/problemas-de-conexao",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Diagnóstico"
+        }
+      ]
+    },
+    {
+      "id": "dETimOvMLDWFH7ED5TdO",
+      "title": "Problemas de Dispositivos",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/diagnostico/problemas-de-dispositivos",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Diagnóstico"
+        }
+      ]
+    },
+    {
+      "id": "ZKyrp2DQomVJH0M3nzoZ",
+      "title": "Problemas de Impressao",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/diagnostico/problemas-de-impressao",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Diagnóstico"
+        }
+      ]
+    },
+    {
+      "id": "CcNr4eEZ7Fc5tbKdQd3j",
+      "title": "FAQ",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/faq",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        }
+      ]
+    },
+    {
+      "id": "5ftBL20Y0bYelrWmXOQH",
+      "title": "FAQ Configuracao",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/faq/faq-configuracao",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "FAQ"
+        }
+      ]
+    },
+    {
+      "id": "smCvm9SjucDlZjlFmZrA",
+      "title": "FAQ Financeiro",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/faq/faq-financeiro",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "FAQ"
+        }
+      ]
+    },
+    {
+      "id": "2sAJOkM7rLdMCMKwQ4R0",
+      "title": "FAQ Fiscal",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/faq/faq-fiscal",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "FAQ"
+        }
+      ]
+    },
+    {
+      "id": "kCcJdaDk35Nykw5kAZAF",
+      "title": "FAQ Geral",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/faq/faq-geral",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "FAQ"
+        }
+      ]
+    },
+    {
+      "id": "9d12uHB2O53U847wRLjU",
+      "title": "FAQ Onboarding",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/faq/faq-onboarding",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "FAQ"
+        }
+      ]
+    },
+    {
+      "id": "qYJf9mxyWc76OrQyd3W5",
+      "title": "FAQ Operacao",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/faq/faq-operacao",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "FAQ"
+        }
+      ]
+    },
+    {
+      "id": "ZAkidxARAKP9BXnmDoXR",
+      "title": "Gestão",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/gestao",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        }
+      ]
+    },
+    {
+      "id": "P0nkyvxtE3xNt0VMZIvI",
+      "title": "Estoque",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/gestao/estoque",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Gestão"
+        }
+      ]
+    },
+    {
+      "id": "CB4SJhvLeXr8yr0o9sCq",
+      "title": "Financeiro",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/gestao/financeiro",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Gestão"
+        }
+      ]
+    },
+    {
+      "id": "rCKAs0IJddkgzJV9AWjC",
+      "title": "Fiscal",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/gestao/fiscal",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Gestão"
+        }
+      ]
+    },
+    {
+      "id": "roEyfqVvwws56gtaxDVt",
+      "title": "Gestao de Clientes",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/gestao/gestao-de-clientes",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Gestão"
+        }
+      ]
+    },
+    {
+      "id": "y7d1vSu9QhF55GZ4Malg",
+      "title": "Relatorios",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/gestao/relatorios",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Gestão"
+        }
+      ]
+    },
+    {
+      "id": "HwpVNSbXwhPa8FNBuLfN",
+      "title": "Infraestrutura",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/infraestrutura",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        }
+      ]
+    },
+    {
+      "id": "UupqBOdSDOIaOmc0Ig2D",
+      "title": "Dispositivos Compativeis",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/infraestrutura/dispositivos-compativeis",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Infraestrutura"
+        }
+      ]
+    },
+    {
+      "id": "vxqEApFbnmzBVGfJBBm8",
+      "title": "Estrutura de Rede",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/infraestrutura/estrutura-de-rede",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Infraestrutura"
+        }
+      ]
+    },
+    {
+      "id": "Bi1mt45KxRWztp2hBTp0",
+      "title": "Integracoes",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/infraestrutura/integracoes",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Infraestrutura"
+        }
+      ]
+    },
+    {
+      "id": "6otgWuq7ZnkmfqMWgZT6",
+      "title": "Regras de Autenticacao",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/infraestrutura/regras-de-autenticacao",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Infraestrutura"
+        }
+      ]
+    },
+    {
+      "id": "SDDmyUy8VAczEtvKHvs5",
+      "title": "Requisitos Minimos",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/infraestrutura/requisitos-minimos",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Infraestrutura"
+        }
+      ]
+    },
+    {
+      "id": "CFmHxWZasyh8rRTks47B",
+      "title": "Institucional",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/institucional",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        }
+      ]
+    },
+    {
+      "id": "ObwLtJ1s8pdWlDWtg001",
+      "title": "Como Funciona o Suporte",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/institucional/como-funciona-o-suporte",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Institucional"
+        }
+      ]
+    },
+    {
+      "id": "KdxZ1kTlQ5ni2mRk4P9X",
+      "title": "O que e Atendi OS",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/institucional/o-que-e-atendi-os",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Institucional"
+        }
+      ]
+    },
+    {
+      "id": "n9AQGoATBfqqucT2HvAq",
+      "title": "Quem Faz o Atendimento",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/institucional/quem-faz-o-atendimento",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Institucional"
+        }
+      ]
+    },
+    {
+      "id": "JcO0L4PWNf0TYIGijnA2",
+      "title": "Onboarding",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/onboarding",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        }
+      ]
+    },
+    {
+      "id": "ucKN9XSukI4Oqm1l13Mc",
+      "title": "Checklist de Implantacao",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/onboarding/checklist-de-implantacao",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Onboarding"
+        }
+      ]
+    },
+    {
+      "id": "wOffQEnVsZiuiGe8oZ4p",
+      "title": "Coleta de Dados da Empresa",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/onboarding/coleta-de-dados-da-empresa",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Onboarding"
+        }
+      ]
+    },
+    {
+      "id": "SLryf6fBILHw7e3S9iFK",
+      "title": "Configuracao Inicial",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/onboarding/configuracao-inicial",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Onboarding"
+        }
+      ]
+    },
+    {
+      "id": "Lr1hZK8Jrgbr6BxZq0Gr",
+      "title": "Implementacao",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/onboarding/implementacao",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Onboarding"
+        }
+      ]
+    },
+    {
+      "id": "DHyM9052giaDjShxdn85",
+      "title": "Onboarding",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/onboarding/onboarding",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Onboarding"
+        }
+      ]
+    },
+    {
+      "id": "nLuhYk0yJyEForAAo9mr",
+      "title": "Primeiro Pedido",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/onboarding/primeiro-pedido",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Onboarding"
+        }
+      ]
+    },
+    {
+      "id": "5tvbRNeFv1dtk2jnpGZs",
+      "title": "Primeiros Passos",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/onboarding/primeiros-passos",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Onboarding"
+        }
+      ]
+    },
+    {
+      "id": "yjzOQeSRzoySSzH0lreK",
+      "title": "Validacao da Implantacao",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/onboarding/validacao-da-implantacao",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Onboarding"
+        }
+      ]
+    },
+    {
+      "id": "1NO9fBjjbZVHuKXnlG26",
+      "title": "Operação",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/operacao",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        }
+      ]
+    },
+    {
+      "id": "aENqdeW0AEkZSy6TdKGy",
+      "title": "Autoatendimento",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/operacao/autoatendimento",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Operação"
+        }
+      ]
+    },
+    {
+      "id": "qWNxjfmKkrtvdzDJCAIJ",
+      "title": "Cancelamentos",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/operacao/cancelamentos",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Operação"
+        }
+      ]
+    },
+    {
+      "id": "evijcLVGuWOen3Zgco2e",
+      "title": "Display Digital",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/operacao/display-digital",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Operação"
+        }
+      ]
+    },
+    {
+      "id": "aUj0a9Gzh6WWuxk6SEiS",
+      "title": "Fluxo de Pedidos",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/operacao/fluxo-de-pedidos",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Operação"
+        }
+      ]
+    },
+    {
+      "id": "dh8BbVwvVWS2bhmwsFkC",
+      "title": "Fluxo de Vendas",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/operacao/fluxo-de-vendas",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Operação"
+        }
+      ]
+    },
+    {
+      "id": "Wrlw1246vu0I8hWvJ3ik",
+      "title": "Fluxo do Caixa",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/operacao/fluxo-do-caixa",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Operação"
+        }
+      ]
+    },
+    {
+      "id": "UEAkztv8l6d6N62g15vL",
+      "title": "Loja Online",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/operacao/loja-online",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Operação"
+        }
+      ]
+    },
+    {
+      "id": "sPGA9UO5HqapE1zRVTgD",
+      "title": "PDV",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/operacao/pdv",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Operação"
+        }
+      ]
+    },
+    {
+      "id": "Vi6WqcdpopCcm7grHzf1",
+      "title": "Producao",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/operacao/producao",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Operação"
+        }
+      ]
+    },
+    {
+      "id": "9ZRGbdrkvR4FunwbLZdq",
+      "title": "Totem",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/operacao/totem",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Operação"
+        }
+      ]
+    },
+    {
+      "id": "XZyiEPTJm7gSIr0I3SLv",
+      "title": "Transferencias",
+      "pathname": "/atendi-docs/02.-operacao-atendi/ia/vector-stores-1/suporte/operacao/transferencias",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "IA na Operação Atendi"
+        },
+        {
+          "label": "Vector Stores"
+        },
+        {
+          "label": "Vector Store do Agente de Suporte e Implementacao"
+        },
+        {
+          "label": "Operação"
+        }
+      ]
+    },
+    {
+      "id": "8H9DjZandMeDa56VEw1A",
+      "title": "Playbooks",
+      "pathname": "/atendi-docs/02.-operacao-atendi/playbooks",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        }
+      ]
+    },
+    {
+      "id": "ShgkNREbjoqk3hSyrLXa",
+      "title": "playbook-comercial",
+      "pathname": "/atendi-docs/02.-operacao-atendi/playbooks/playbook-comercial",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "Playbooks"
+        }
+      ]
+    },
+    {
+      "id": "9zmLRkQY12QswGD22pC2",
+      "title": "playbook-contratacao",
+      "pathname": "/atendi-docs/02.-operacao-atendi/playbooks/playbook-contratacao",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "Playbooks"
+        }
+      ]
+    },
+    {
+      "id": "250OHw1Wxle4vVMe9KPp",
+      "title": "playbook-demonstracao",
+      "pathname": "/atendi-docs/02.-operacao-atendi/playbooks/playbook-demonstracao",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "Playbooks"
+        }
+      ]
+    },
+    {
+      "id": "UqRXwcoNBHwDbHozo4se",
+      "title": "playbook-evolucao-do-cliente",
+      "pathname": "/atendi-docs/02.-operacao-atendi/playbooks/playbook-evolucao-do-cliente",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "Playbooks"
+        }
+      ]
+    },
+    {
+      "id": "6n4tufNTXW72WmsFK7Z4",
+      "title": "Playbook Implantação",
+      "pathname": "/atendi-docs/02.-operacao-atendi/playbooks/playbook-implantacao",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "Playbooks"
+        }
+      ]
+    },
+    {
+      "id": "FFPM8gmv3W53MnPJkKNO",
+      "title": "Playbook Primeiro Valor",
+      "pathname": "/atendi-docs/02.-operacao-atendi/playbooks/playbook-primeiro-valor",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "Playbooks"
+        }
+      ]
+    },
+    {
+      "id": "BOnpjkeJ6WHalJlPnvMP",
+      "title": "Playbook Suporte",
+      "pathname": "/atendi-docs/02.-operacao-atendi/playbooks/playbook-suporte",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "02. Operação Atendi"
+        },
+        {
+          "label": "Playbooks"
+        }
+      ]
+    },
+    {
+      "id": "aIoD0Y9l9iKd0zPH2LZw",
+      "title": "03. Produto",
+      "pathname": "/atendi-docs/03.-produto",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": ""
+    },
+    {
+      "id": "o5x8ycTSvfJo6vhR6Tg0",
+      "title": "Arquitetura Operacional da Loja",
+      "pathname": "/atendi-docs/03.-produto/arquitetura-operacional-da-loja",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        }
+      ]
+    },
+    {
+      "id": "C21SpTwhcSrE0AyDQqUI",
+      "title": "Arquitetura Técnica",
+      "pathname": "/atendi-docs/03.-produto/arquitetura-tecnica",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        }
+      ]
+    },
+    {
+      "id": "oWqbHgTCAUldxHFcYvJa",
+      "title": "FAQ de Produto",
+      "pathname": "/atendi-docs/03.-produto/faq-produto",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        }
+      ]
+    },
+    {
+      "id": "iliz02DuRQGVsZn7KS9X",
+      "title": "Integrações",
+      "pathname": "/atendi-docs/03.-produto/integracoes",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        }
+      ]
+    },
+    {
+      "id": "cOMTezwxdMB05Pd0zRFr",
+      "title": "Processo Interno de Produto",
+      "pathname": "/atendi-docs/03.-produto/processo-de-produto",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        }
+      ]
+    },
+    {
+      "id": "m9iXV9eVyZJfEdsag48Y",
+      "title": "Roadmap",
+      "pathname": "/atendi-docs/03.-produto/roadmap",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        }
+      ]
+    },
+    {
+      "id": "wUgO6WhEUWRC3K8KGl12",
+      "title": "visao-do-atendi-os",
+      "pathname": "/atendi-docs/03.-produto/visao-do-atendi-os",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        }
+      ]
+    },
+    {
+      "id": "A8yBEI27F4ceZDPiCEOc",
+      "title": "Módulos",
+      "pathname": "/atendi-docs/03.-produto/modulos",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        }
+      ]
+    },
+    {
+      "id": "UeGqtooA5ulyIjhQIEjt",
+      "title": "Módulo Autoatendimento",
+      "pathname": "/atendi-docs/03.-produto/modulos/autoatendimento",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        },
+        {
+          "label": "Módulos"
+        }
+      ]
+    },
+    {
+      "id": "sgDF9Hrz1HyYWo0H9BLz",
+      "title": "Módulo Clientes",
+      "pathname": "/atendi-docs/03.-produto/modulos/clientes",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        },
+        {
+          "label": "Módulos"
+        }
+      ]
+    },
+    {
+      "id": "WUZG3DBGjklvrgIOrO3L",
+      "title": "Módulo Dashboard",
+      "pathname": "/atendi-docs/03.-produto/modulos/dashboard",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        },
+        {
+          "label": "Módulos"
+        }
+      ]
+    },
+    {
+      "id": "abAsNcKQVGXkceFftjSz",
+      "title": "Módulo Displays Digitais",
+      "pathname": "/atendi-docs/03.-produto/modulos/displays-digitais",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        },
+        {
+          "label": "Módulos"
+        }
+      ]
+    },
+    {
+      "id": "FhL9H412Ksafe6DabcBr",
+      "title": "Módulo Estoque",
+      "pathname": "/atendi-docs/03.-produto/modulos/estoque",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        },
+        {
+          "label": "Módulos"
+        }
+      ]
+    },
+    {
+      "id": "xUeHSwwwMs0EKdm8A7LP",
+      "title": "Módulo Financeiro",
+      "pathname": "/atendi-docs/03.-produto/modulos/financeiro",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        },
+        {
+          "label": "Módulos"
+        }
+      ]
+    },
+    {
+      "id": "wDkLDh2P2uJIY8W7XNlT",
+      "title": "Módulo Fiscal",
+      "pathname": "/atendi-docs/03.-produto/modulos/fiscal",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        },
+        {
+          "label": "Módulos"
+        }
+      ]
+    },
+    {
+      "id": "J7ZFAJIMX2znkuZZgT9X",
+      "title": "Módulo Inteligência Artificial",
+      "pathname": "/atendi-docs/03.-produto/modulos/inteligencia-artificial",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        },
+        {
+          "label": "Módulos"
+        }
+      ]
+    },
+    {
+      "id": "Ehhvtoen2PPkL0bg3iMe",
+      "title": "Módulo Loja Online",
+      "pathname": "/atendi-docs/03.-produto/modulos/loja-online",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        },
+        {
+          "label": "Módulos"
+        }
+      ]
+    },
+    {
+      "id": "HyMR3hFutM2KLUehAOHT",
+      "title": "Módulo PDV",
+      "pathname": "/atendi-docs/03.-produto/modulos/pdv",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        },
+        {
+          "label": "Módulos"
+        }
+      ]
+    },
+    {
+      "id": "c2T6vQHBevUjRGpJ68Aa",
+      "title": "Módulo Pedidos",
+      "pathname": "/atendi-docs/03.-produto/modulos/pedidos",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        },
+        {
+          "label": "Módulos"
+        }
+      ]
+    },
+    {
+      "id": "1cfNvUbUZBvYUYdOAWgr",
+      "title": "Módulo Relatórios",
+      "pathname": "/atendi-docs/03.-produto/modulos/relatorios",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        },
+        {
+          "label": "Módulos"
+        }
+      ]
+    },
+    {
+      "id": "M1VJeQSRcYuj8Wrbj1dr",
+      "title": "Módulo Self Checkout",
+      "pathname": "/atendi-docs/03.-produto/modulos/self-checkout",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        },
+        {
+          "label": "Módulos"
+        }
+      ]
+    },
+    {
+      "id": "309PU1c3V18Tb7bL2KHQ",
+      "title": "Módulo Totem",
+      "pathname": "/atendi-docs/03.-produto/modulos/totem",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        },
+        {
+          "label": "Módulos"
+        }
+      ]
+    },
+    {
+      "id": "7ZlNjf59L69kE1GJhuYv",
+      "title": "Módulo WhatsApp",
+      "pathname": "/atendi-docs/03.-produto/modulos/whatsapp",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        },
+        {
+          "label": "Módulos"
+        }
+      ]
+    },
+    {
+      "id": "Hfnf0LV7vYrd4mQTHRKP",
+      "title": "Referências",
+      "pathname": "/atendi-docs/03.-produto/referencias",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        }
+      ]
+    },
+    {
+      "id": "cLYogExkVs3EBqJzwxtZ",
+      "title": "Loja da Nova Geração",
+      "pathname": "/atendi-docs/03.-produto/referencias/loja-da-nova-geracao",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        },
+        {
+          "label": "Referências"
+        }
+      ]
+    },
+    {
+      "id": "bd5vxOMnGuUQLx6a6KN8",
+      "title": "Planos",
+      "pathname": "/atendi-docs/03.-produto/referencias/planos",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        },
+        {
+          "label": "Referências"
+        }
+      ]
+    },
+    {
+      "id": "PEG9ZSjWZfXmJ3oanjQQ",
+      "title": "Plataforma Operacional",
+      "pathname": "/atendi-docs/03.-produto/referencias/plataforma-operacional",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        },
+        {
+          "label": "Referências"
+        }
+      ]
+    },
+    {
+      "id": "O27Hux2Xjr2ZcLYW4OPU",
+      "title": "Visão Geral do Produto",
+      "pathname": "/atendi-docs/03.-produto/referencias/visao-geral-do-produto",
+      "siteSpaceId": "sitesp_q89Gt",
+      "lang": "pt-br",
+      "description": "",
+      "breadcrumbs": [
+        {
+          "label": "03. Produto"
+        },
+        {
+          "label": "Referências"
+        }
+      ]
+    }
+  ]
+}
